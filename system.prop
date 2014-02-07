@@ -1,5 +1,5 @@
 #
-# system.prop for e400
+# system.prop for l35g
 #
 ro.sf.lcd_density=120
 
@@ -23,7 +23,7 @@ ro.telephony.ril_class=LGEQualcommUiccRIL
 ro.telephony.default_network=0
 telephony.lteOnGsmDevice=0
 
-ro.additionalmounts=/mnt/extra-sd
-ro.vold.switchablepair=/mnt/sdcard,/mnt/extra-sd
+ro.additionalmounts=/mnt/_ExternalSD
+ro.vold.switchablepair=/mnt/sdcard,/mnt/_ExternalSD
 
 persist.sys.usb.config=mtp,adb
