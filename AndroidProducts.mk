@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/e400.mk
+    $(LOCAL_DIR)/l35g.mk
