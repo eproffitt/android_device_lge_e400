@@ -4,7 +4,7 @@ USE_CAMERA_STUB := true
 -include vendor/lge/l35g/BoardConfigVendor.mk
 
 TARGET_NO_BOOTLOADER := true
-TARGET_BOARD_PLATFORM := msm7k
+TARGET_BOARD_PLATFORM := msm7x27a
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno200
 
 TARGET_CPU_ABI := armeabi-v7a
